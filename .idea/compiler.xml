@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hello-shiro" />
+        <module name="helloworld" />
+        <module name="mail" />
+        <module name="shiro-springboot" />
+        <module name="springboot-01-helloworld" />
+        <module name="springboot-02-config" />
+        <module name="springboot-03-web" />
+        <module name="springboot-04-data" />
+        <module name="springboot-05-mybatis" />
+        <module name="springboot-06-security" />
+        <module name="springboot-09-test" />
+        <module name="swagger-demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SpringBoot-Study" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

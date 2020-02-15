@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.rui</groupId>
+    <artifactId>SpringBoot-study</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>helloworld</module>
+        <module>Mail</module>
+        <module>springboot-01-helloworld</module>
+		<module>springboot-02-config</module>
+        <module>springboot-03-web</module>
+        <module>springboot-04-data</module>
+        <module>springboot-05-mybatis</module>
+        <module>springboot-06-security</module>
+        <module>springboot-08-shiro</module>
+        <module>springboot-09-test</module>
+        <module>swagger-demo</module>
+
+    </modules>
+
+        
+</project>
